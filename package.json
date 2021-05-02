@@ -1,0 +1,23 @@
+{
+  "name": "exploring-planets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anusontarangkul/exploring-planets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anusontarangkul/exploring-planets/issues"
+  },
+  "homepage": "https://github.com/anusontarangkul/exploring-planets#readme",
+  "dependencies": {
+    "csv-parse": "^4.15.4"
+  }
+}
